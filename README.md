@@ -30,6 +30,12 @@ ACSEFY helps organizers with NFC wristbands that serve as multifunctional tools 
 
 **Storage:** Postgres, Prisma
 
+## Media
+This section contains media of the working system and or diagrams and flows of the system
+
+![App Screenshot](https://raw.githubusercontent.com/Th1b0/th1b0.github.io/main/GIP.png)
+
+
 ## FAQ
 
 #### How does it work?
