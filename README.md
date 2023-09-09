@@ -24,7 +24,7 @@ ACSEFY helps organizers with NFC wristbands that serve as multifunctional tools 
 
 **NFC-tag:** NTAG215
 
-**Client:** Dart, Flutter
+**Client:** Dart, Flutter, Svelte
 
 **Server:** Node, Express
 
