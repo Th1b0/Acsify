@@ -15,7 +15,7 @@ ACSIFY helps organizers with NFC wristbands that serve as multifunctional tools 
 
 - **Identification**: Each wristband is unique, enabling efficient attendee identification. This feature is particularly useful for events with age restrictions, VIP sections, or other special access requirements.
 
-- **Enhanced Services**: ACSEFY's NFC wristbands can be programmed to offer enhanced services, such as fast-track entry, VIP privileges, or special discounts. This customization allows event organizers to tailor the attendee experience.
+- **Enhanced Services**: ACSIFY's NFC wristbands can be programmed to offer enhanced services, such as fast-track entry, VIP privileges, or special discounts. This customization allows event organizers to tailor the attendee experience.
 
 - **Data Insight**s: The technology behind these wristbands allows event organizers to collect valuable data on attendee behavior and preferences. This data can be used to improve future events and marketing strategies.
 
