@@ -1,13 +1,13 @@
 
-# ACSEFY
+# ACSIFY
 
-ACSEFY helps organizers with NFC wristbands that serve as multifunctional tools for event management. These wristbands streamline ticketing, enhance security, offer cashless payment options, provide access control, and enable various event-specific services, ultimately improving the overall attendee experience while offering valuable insights to event organizers.
+ACSIFY helps organizers with NFC wristbands that serve as multifunctional tools for event management. These wristbands streamline ticketing, enhance security, offer cashless payment options, provide access control, and enable various event-specific services, ultimately improving the overall attendee experience while offering valuable insights to event organizers.
 
 # Discliamer
 #### At this stage, this system is developed for a school project and is not yet ready for real-world use. I aspire to refine it and eventually launch it as a product, with the hope of providing practical solutions in the future.
 # Features
 
-- **Ticketing Solution**: ACSEFY's NFC wristbands serve as a convenient and secure alternative to traditional paper tickets. Attendees can simply tap their wristbands to gain access to the event, reducing the risk of counterfeit tickets.
+- **Ticketing Solution**: ACSIFY's NFC wristbands serve as a convenient and secure alternative to traditional paper tickets. Attendees can simply tap their wristbands to gain access to the event, reducing the risk of counterfeit tickets.
 
 - **Payment System**: These wristbands also function as cashless payment systems. Attendees can load funds onto their wristbands and use them to make purchases at event vendors, reducing the need for cash and enhancing convenience.
 
