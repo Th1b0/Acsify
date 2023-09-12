@@ -1,5 +1,5 @@
 
-# ACSIFY
+# ACSIFY.COM
 
 ACSIFY helps organizers with NFC wristbands that serve as multifunctional tools for event management. These wristbands streamline ticketing, enhance security, offer cashless payment options, provide access control, and enable various event-specific services, ultimately improving the overall attendee experience while offering valuable insights to event organizers.
 
@@ -68,17 +68,18 @@ These security features work together to provide a safe and reliable experience 
 This project is used by the following companies:
 
 - thibokuijpers.be
+- acsify.com
 
 
 
 ## Feedback
 
-If you have any feedback, please reach out to me at acsefy@thibokuijpers.be
+If you have any feedback, please reach out to our feedback mail feedback@acsify.com
 
 
 ## Support
 
-For support, email acsefy@thibokuijpers.be
+For support, support@acsify.com
 
 
 ## License
