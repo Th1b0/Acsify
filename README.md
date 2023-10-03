@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://acsify.com/acsify_logo.svg" />
+  <img src="https://acsify.com/acsify_logo_wit.png" />
 </p>
 
 # ACSIFY.COM
