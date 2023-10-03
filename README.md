@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://acsify.com/acsify_logo_wit.png#gh-dark-mode-only" width="40%" />
+   <img src="https://acsify.com/acsify_logo_zwart.png#gh-light-mode-only" width="40%" />
 </p>
 
 # ACSIFY.COM
