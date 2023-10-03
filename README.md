@@ -1,6 +1,7 @@
-
-  ![Acsify logo](./acsify_logo_wit.png#gh-dark-mode-only)
-  ![Acsify logo](./acsify_logo_zwart.png#gh-light-mode-only)
+<p align="center">
+   <img width="50%" src="./acsify_logo_wit.png#gh-dark-mode-only">
+   <img width="50%" src="./acsify_logo_zwart.png#gh-light-mode-only">
+</p>
 
 # ACSIFY.COM
 
